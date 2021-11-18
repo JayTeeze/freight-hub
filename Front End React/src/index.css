@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  white-space: nowrap;
+}
+
+.sign-up-container{
+  margin-top: 10%;
+  max-width: 680px;
+}
+
+.body-container {
+  margin-top: 75px;
+}
+
+.thank-you-container{
+  margin-top: 200px;
+}
+
+.navbar {
+  background-color: #00ACC1;
+}
+
+.btn-outline-info {
+  outline-color: #00ACC1;
+  color: #00ACC1;
+}
+
+.btn-outline-info:hover {
+  background-color: #00ACC1;
+  outline-color: #00ACC1;
+  color: #FBFBFB;
+}
+
+.profile-link {
+  color: black;
+}
+
+.profile-link:hover {
+  color: black;
+}
+
+.profile-text {
+  white-space: pre-wrap;
+}
+
+.edit-profile-card {
+  max-width: 11rem;
+}
+
+.home-link, .home-link:hover, .home-link:visited, .home-link:link, .home-link:active {
+  text-decoration: none;
+  color: black;
+}
